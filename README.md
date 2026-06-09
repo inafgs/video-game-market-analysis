@@ -87,6 +87,6 @@ Action games receive more consistent user ratings than Sports games, a statistic
 
 Focus advertising budget on PS4 and Xbox One titles in the Action and Shooter genres for Western markets
 Maintain differentiated inventory for Japan, prioritizing RPGs and Nintendo platform titles
-Leverage critic scores as a marketing argument — they have a measurable impact on sales volume
+Leverage critic scores as a marketing argument. They have a measurable impact on sales volume
 Prioritize multi-platform releases to maximize revenue reach, with PS4 as the primary target
 
